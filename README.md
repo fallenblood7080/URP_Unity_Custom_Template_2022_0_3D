@@ -6,3 +6,4 @@
 - Unity Toolbar
 - Cinemachine
 - Burst
+- Singleton
